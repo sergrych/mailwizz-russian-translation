@@ -14,7 +14,7 @@
  */
  
  return array (
-  'Please note that because of the way DNS servers work, you need to add a subdomain like tracking.your-domain.com as a DNS CNAME record and point it to {currentDomain}!' => 'Обратите внимание, что из-за того, как работают DNS-серверы, вам необходимо добавить поддомен, такой как tracking.your-domain.com, в качестве записи DNS CNAME и указать его для {currentDomain}!',
+  'Please note that because of the way DNS servers work, you need to add a subdomain like tracking.your-domain.com as a DNS CNAME record and point it to {currentDomain}!' => 'Обратите внимание, что из-за того, как работают DNS-серверы, вам необходимо добавить поддомен, такой как tracking.{currentDomain}, в качестве записи DNS CNAME и указать его для {currentDomain}!',
   'Tracking domains' => 'Трэкинговые домены',
   'Please note, in order for this feature to work this (sub)domain needs a dedicated IP address, otherwise all defined CNAMES for it will point to the default domain on this server.' => 'Обратите внимание, что для работы этой функции этому (суб) домену необходим выделенный IP-адрес, в противном случае все определенные CNAMES для него будут указывать на домен по умолчанию на этом сервере.',
   'If you do not use a dedicated IP address for this domain only or you are not sure you do so, do not use this feature!' => 'Если вы не используете выделенный IP-адрес только для этого домена или не уверены в этом, не используйте эту функцию!',
@@ -32,4 +32,5 @@
   'Your PHP install does not contain the {function} function needed to query the DNS records!' => 'Ваша установка PHP не содержит функции {function}, необходимой для запроса записей DNS!',
   'Cannot find a valid CNAME record for {domainName}! Remember, the CNAME of {domainName} must point to {currentDomain}!' => 'Не удается найти действительную запись CNAME для {domainName}! Помните, что CNAME {domainName} должно указывать на {currentDomain}!',
   'Scheme' => 'Протокол',
+  'Choose HTTPS only if your tracking domain can also provide a valid SSL certificate, otherwise stick to regular HTTP.' => 'Choose HTTPS only if your tracking domain can also provide a valid SSL certificate, otherwise stick to regular HTTP.',
 );

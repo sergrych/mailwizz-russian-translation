@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -57,4 +57,5 @@
   'Cannot move the avatar into the correct storage folder!' => 'Не могу переместить аватар в правильный каталог!',
   'You are impersonating the customer {customerName}.' => 'Вы выдаете себя за пользователя {customerName}.',
   'Please click {linkBack} to logout in order to finish impersonating.' => 'Пожалуйста нажмите {linkBack} для выхода из системы.',
+  '2FA enabled' => '2FA enabled',
 );

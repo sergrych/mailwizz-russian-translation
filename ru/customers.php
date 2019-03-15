@@ -147,7 +147,7 @@
   'Company info successfully updated!' => 'Company info successfully updated!',
   'Sending quota' => 'Sending quota',
   'Lists' => 'Списки',
-  'Campaigns' => 'Campaigns',
+  'Campaigns' => 'Компании',
   'Subscribers' => 'Subscribers',
   'Delivery servers' => 'Delivery servers',
   'Bounce servers' => 'Bounce servers',

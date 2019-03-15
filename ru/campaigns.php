@@ -15,7 +15,7 @@
  
  return array (
   'Are you sure you want to blacklist the email address specified in the abuse report?' => 'Вы уверены, что хотите в добавить в черный список адрес электронной почты, указанный в отчете о злоупотреблении?',
-  'Overview' => 'Overview',
+  'Overview' => 'Обзор',
   'Pause sending' => 'Pause sending',
   'Are you sure you want to pause this campaign ?' => 'Are you sure you want to pause this campaign ?',
   'Unpause sending' => 'Unpause sending',
@@ -36,7 +36,7 @@
   'Campaigns' => 'Campaigns',
   'This campaign is blocked because following reasons:' => 'This campaign is blocked because following reasons:',
   'Click here to unblock it!' => 'Click here to unblock it!',
-  'Campaign overview' => 'Campaign overview',
+  'Campaign overview' => 'Обзор кампании',
   'Your campaign was successfully deleted!' => 'Your campaign was successfully deleted!',
   'Your campaign was successfully changed!' => 'Your campaign was successfully changed!',
   'Your customer group was successfully copied!' => 'Your customer group was successfully copied!',

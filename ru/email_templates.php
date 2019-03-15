@@ -65,4 +65,5 @@
   'Create email template' => 'Create email template',
   'View templates' => 'View templates',
   '* if multiple recipients, separate the email addresses by a comma.<br /> * the email tags will not be parsed while sending test emails.<br /> * make sure you save the template changes before you send the test.' => '* if multiple recipients, separate the email addresses by a comma.<br /> * the email tags will not be parsed while sending test emails.<br /> * make sure you save the template changes before you send the test.',
+  'Create new category' => 'Create new category',
 );

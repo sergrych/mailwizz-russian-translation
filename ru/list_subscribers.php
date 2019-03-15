@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -96,4 +96,25 @@
   'You have been unsubscribed successfully!' => 'You have been unsubscribed successfully!',
   'Please confirm your unsubscription' => 'Please confirm your unsubscription',
   'Please check your email and click on the provided unsubscribe link.' => 'Please check your email and click on the provided unsubscribe link.',
+  'Ip address' => 'Ip address',
+  'Confirmed' => 'Confirmed',
+  'Unconfirmed' => 'Unconfirmed',
+  'Unsubscribed' => 'Unsubscribed',
+  'Unapproved' => 'Unapproved',
+  'Blacklisted' => 'Blacklisted',
+  'Disabled' => 'Disabled',
+  'Moved' => 'Moved',
+  'Api' => 'Api',
+  'Import' => 'Import',
+  'Web' => 'Web',
+  'Confirmed Subscribers' => 'Confirmed Subscribers',
+  'Bounces' => 'Bounces',
+  'Subscribe' => 'Subscribe',
+  'Unsubscribe' => 'Unsubscribe',
+  'Unconfirm' => 'Unconfirm',
+  'Resend confirmation email' => 'Resend confirmation email',
+  'Disable' => 'Disable',
+  'Delete' => 'Delete',
+  'confirmed' => 'confirmed',
+  'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!',
 );

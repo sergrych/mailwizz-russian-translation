@@ -14,9 +14,9 @@
  */
  
  return array (
-  'Company types' => 'Company types',
-  'Create new company type' => 'Create new company type',
-  'Update company type' => 'Update company type',
-  'Type' => 'Type',
-  'Name' => 'Name',
+  'Company types' => 'Виды компаний',
+  'Create new company type' => 'Создать новый тип компании',
+  'Update company type' => 'Обновить тип компании',
+  'Type' => 'Тип',
+  'Name' => 'Имя',
 );

@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -56,4 +56,13 @@
   '[TEST TEMPLATE]' => '[TEST TEMPLATE]',
   'Unable to send the test email to {email}!' => 'Unable to send the test email to {email}!',
   'Test email successfully sent to {email}!' => 'Test email successfully sent to {email}!',
+  'View categories' => 'View categories',
+  'Categories' => 'Categories',
+  'Category' => 'Category',
+  'Templates' => 'Templates',
+  'Please see <a href="{templateArchiveHref}">this example archive</a> in order to understand how you should format your uploaded archive! Also, please note we only accept zip files.' => 'Please see <a href="{templateArchiveHref}">this example archive</a> in order to understand how you should format your uploaded archive! Also, please note we only accept zip files.',
+  'Gallery' => 'Gallery',
+  'Create email template' => 'Create email template',
+  'View templates' => 'View templates',
+  '* if multiple recipients, separate the email addresses by a comma.<br /> * the email tags will not be parsed while sending test emails.<br /> * make sure you save the template changes before you send the test.' => '* if multiple recipients, separate the email addresses by a comma.<br /> * the email tags will not be parsed while sending test emails.<br /> * make sure you save the template changes before you send the test.',
 );

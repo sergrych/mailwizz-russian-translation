@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -28,4 +28,6 @@
   'A new API access has been added:<br />Public key: {public} <br />Private key: {private}' => 'Новый API ключ был добавлен:<br />Публичный ключ: {public} <br />Приватный ключ: {private}',
   'Update api keys' => 'Редактировать API ключи',
   'Requested API access has been successfully removed!' => 'Запрошенный доступ к API был успешно удален!',
+  'Name' => 'Name',
+  'Description' => 'Description',
 );

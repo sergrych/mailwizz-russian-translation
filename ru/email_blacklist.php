@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -75,4 +75,5 @@
   'By completing the form above you will permanently block your email address from receiving any email from {app} customers for the foreseeable future. This could also block genuine emails that you do want to receive from companies or websites that use our service.' => 'By completing the form above you will permanently block your email address from receiving any email from {app} customers for the foreseeable future. This could also block genuine emails that you do want to receive from companies or websites that use our service.',
   'Block my address' => 'Block my address',
   'Block email address' => 'Block email address',
+  'Please note, we will send you a confirmation email to make sure you are the owner of the email address!' => 'Please note, we will send you a confirmation email to make sure you are the owner of the email address!',
 );

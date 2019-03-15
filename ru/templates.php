@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -18,4 +18,6 @@
   'i.e: a@domain.com, b@domain.com, c@domain.com' => 'i.e: a@domain.com, b@domain.com, c@domain.com',
   'From email (optional)' => 'From email (optional)',
   'i.e: me@domain.com' => 'i.e: me@domain.com',
+  'Subject' => 'Subject',
+  '[TEST TEMPLATE] {name}' => '[TEST TEMPLATE] {name}',
 );

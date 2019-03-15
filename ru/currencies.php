@@ -14,14 +14,14 @@
  */
  
  return array (
-  'Currencies' => 'Currencies',
-  'View currencies' => 'View currencies',
-  'Create new currency' => 'Create new currency',
-  'Update currency' => 'Update currency',
-  'Currency' => 'Currency',
-  'Name' => 'Name',
-  'Code' => 'Code',
-  'Value' => 'Value',
-  'Is default' => 'Is default',
-  'Unrecognized currecy code!' => 'Unrecognized currecy code!',
+  'Currencies' => 'Валюты',
+  'View currencies' => 'Просмотр валют',
+  'Create new currency' => 'Создать новую валюту',
+  'Update currency' => 'Обновить валюту',
+  'Currency' => 'Валюта',
+  'Name' => 'Имя',
+  'Code' => 'Код',
+  'Value' => 'Объём',
+  'Is default' => 'По умолчанию',
+  'Unrecognized currecy code!' => 'Нераспознанный код валюты!',
 );

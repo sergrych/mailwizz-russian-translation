@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -146,7 +146,7 @@
   'Account' => 'Account',
   'Company info successfully updated!' => 'Company info successfully updated!',
   'Sending quota' => 'Sending quota',
-  'Lists' => 'Lists',
+  'Lists' => 'Списки',
   'Campaigns' => 'Campaigns',
   'Subscribers' => 'Subscribers',
   'Delivery servers' => 'Delivery servers',
@@ -156,4 +156,12 @@
   'Invalid login credentials.' => 'Invalid login credentials.',
   'The {className} behavior can only be attach to a Customer model' => 'The {className} behavior can only be attach to a Customer model',
   'The {className} behavior can only be attach to a Campaign model' => 'The {className} behavior can only be attach to a Campaign model',
+  'Send details via email' => 'Send details via email',
+  'Birth date' => 'Birth date',
+  'Congratulations, your account has been created, check your inbox for email confirmation! Please note that sometimes the email might land in spam/junk!' => 'Congratulations, your account has been created, check your inbox for email confirmation! Please note that sometimes the email might land in spam/junk!',
+  'Disable account' => 'Disable account',
+  'Export' => 'Export',
+  'Quota usage (count)' => 'Quota usage (count)',
+  '2FA enabled' => '2FA enabled',
+  'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account' => 'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account',
 );

@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -22,6 +22,18 @@
   'Preview it now!' => 'Preview it now!',
   'Select another list page to edit' => 'Select another list page to edit',
   'Your subscribe form url is:' => 'Your subscribe form url is:',
-  'Pages' => 'Pages',
-  'List pages' => 'List pages',
+  'Pages' => 'Страницы',
+  'List pages' => 'Список страниц',
+  'Subscribe form' => 'Subscribe form',
+  'Pending subscribe' => 'Pending subscribe',
+  'Subscription confirmed' => 'Subscription confirmed',
+  'Update Profile' => 'Update Profile',
+  'Unsubscribe form' => 'Unsubscribe form',
+  'Unsubscribe confirmation' => 'Unsubscribe confirmation',
+  'Subscribe confirm email' => 'Subscribe confirm email',
+  'Unsubscribe confirm email' => 'Unsubscribe confirm email',
+  'Welcome email' => 'Welcome email',
+  'Subscription confirmed approval' => 'Subscription confirmed approval',
+  'Subscription confirmed approval email' => 'Subscription confirmed approval email',
+  'Email subject' => 'Email subject',
 );

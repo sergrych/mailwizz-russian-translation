@@ -14,14 +14,14 @@
  */
  
  return array (
-  'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!' => 'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!',
-  'Are you still sure you want to remove this country? There is no coming back after you do it!' => 'Are you still sure you want to remove this country? There is no coming back after you do it!',
-  'View countries' => 'View countries',
-  'Countries' => 'Countries',
-  'Create new country' => 'Create new country',
-  'Update country' => 'Update country',
-  'Confirm country removal' => 'Confirm country removal',
-  'Country' => 'Country',
-  'Name' => 'Name',
-  'Code' => 'Code',
+  'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!' => 'Обратите внимание, что удаление этой страны также удалит каждую запись, которая зависит от нее, например, зоны, налоги, компании-клиенты и т. д.!',
+  'Are you still sure you want to remove this country? There is no coming back after you do it!' => 'Вы все еще уверены, что хотите удалить эту страну? Это изменение нельзя отменить!',
+  'View countries' => 'Просмотр стран',
+  'Countries' => 'Страны',
+  'Create new country' => 'Создать новую страну',
+  'Update country' => 'Обновить страну',
+  'Confirm country removal' => 'Подтвердить удаление страны',
+  'Country' => 'Страна',
+  'Name' => 'Имя',
+  'Code' => 'Код',
 );

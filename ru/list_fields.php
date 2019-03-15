@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -76,4 +76,25 @@
   'Textarea field' => 'Textarea field',
   'Add textarea field' => 'Add textarea field',
   'New textarea field' => 'New textarea field',
+  'In case this field is not required and you need a default value for it. Following tags are recognized: {tags}' => 'In case this field is not required and you need a default value for it. Following tags are recognized: {tags}',
+  'Additional description for this field to show to your subscribers.' => 'Additional description for this field to show to your subscribers.',
+  'Add geocountry field' => 'Add geocountry field',
+  'Add geostate field' => 'Add geostate field',
+  'Add geocity field' => 'Add geocity field',
+  'Add checkbox field' => 'Add checkbox field',
+  'Add consent checkbox' => 'Add consent checkbox',
+  'Add checkboxlist field' => 'Add checkboxlist field',
+  'Add radiolist field' => 'Add radiolist field',
+  'New geocountry field' => 'New geocountry field',
+  'New geostate field' => 'New geostate field',
+  'New geocity field' => 'New geocity field',
+  'New checkbox field' => 'New checkbox field',
+  'Value when checked' => 'Value when checked',
+  'The value of the field when checked.' => 'The value of the field when checked.',
+  'New consent checkbox' => 'New consent checkbox',
+  'The consent text' => 'The consent text',
+  'The consent text shown to the subscriber.' => 'The consent text shown to the subscriber.',
+  'New checkboxlist field' => 'New checkboxlist field',
+  'Options' => 'Options',
+  'New radiolist field' => 'New radiolist field',
 );

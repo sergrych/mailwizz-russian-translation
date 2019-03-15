@@ -7,28 +7,29 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
  return array (
-  'Please note that because of the way DNS servers work, you need to add a subdomain like tracking.your-domain.com as a DNS CNAME record and point it to {currentDomain}!' => 'Please note that because of the way DNS servers work, you need to add a subdomain like tracking.your-domain.com as a DNS CNAME record and point it to {currentDomain}!',
-  'Tracking domains' => 'Tracking domains',
-  'Please note, in order for this feature to work this (sub)domain needs a dedicated IP address, otherwise all defined CNAMES for it will point to the default domain on this server.' => 'Please note, in order for this feature to work this (sub)domain needs a dedicated IP address, otherwise all defined CNAMES for it will point to the default domain on this server.',
-  'If you do not use a dedicated IP address for this domain only or you are not sure you do so, do not use this feature!' => 'If you do not use a dedicated IP address for this domain only or you are not sure you do so, do not use this feature!',
-  'View tracking domains' => 'View tracking domains',
-  'Create new tracking domain' => 'Create new tracking domain',
-  'Update tracking domain' => 'Update tracking domain',
-  'Domain' => 'Domain',
-  'Customer' => 'Customer',
-  'Name' => 'Name',
-  'Skip validation' => 'Skip validation',
+  'Please note that because of the way DNS servers work, you need to add a subdomain like tracking.your-domain.com as a DNS CNAME record and point it to {currentDomain}!' => 'Обратите внимание, что из-за того, как работают DNS-серверы, вам необходимо добавить поддомен, такой как tracking.your-domain.com, в качестве записи DNS CNAME и указать его для {currentDomain}!',
+  'Tracking domains' => 'Трэкинговые домены',
+  'Please note, in order for this feature to work this (sub)domain needs a dedicated IP address, otherwise all defined CNAMES for it will point to the default domain on this server.' => 'Обратите внимание, что для работы этой функции этому (суб) домену необходим выделенный IP-адрес, в противном случае все определенные CNAMES для него будут указывать на домен по умолчанию на этом сервере.',
+  'If you do not use a dedicated IP address for this domain only or you are not sure you do so, do not use this feature!' => 'Если вы не используете выделенный IP-адрес только для этого домена или не уверены в этом, не используйте эту функцию!',
+  'View tracking domains' => 'Просмотрт трэкинговых доменов',
+  'Create new tracking domain' => 'Создать новый трэкинговый домен',
+  'Update tracking domain' => 'Оновить тржкинговый домен',
+  'Domain' => 'Домен',
+  'Customer' => 'Пользователь',
+  'Name' => 'Название',
+  'Skip validation' => 'Пропустить проверку',
   'tracking.your-domain.com' => 'tracking.your-domain.com',
-  'Please DO NOT SKIP validation unless you are 100% sure you know what you are doing.' => 'Please DO NOT SKIP validation unless you are 100% sure you know what you are doing.',
-  'Unable to get the current domain name!' => 'Unable to get the current domain name!',
-  'Your specified domain name does not seem to be valid!' => 'Your specified domain name does not seem to be valid!',
-  'Your PHP install does not contain the {function} function needed to query the DNS records!' => 'Your PHP install does not contain the {function} function needed to query the DNS records!',
-  'Cannot find a valid CNAME record for {domainName}! Remember, the CNAME of {domainName} must point to {currentDomain}!' => 'Cannot find a valid CNAME record for {domainName}! Remember, the CNAME of {domainName} must point to {currentDomain}!',
+  'Please DO NOT SKIP validation unless you are 100% sure you know what you are doing.' => 'Пожалуйста, не пропускайте проверку, если вы не уверены на 100%, что знаете, что делаете.',
+  'Unable to get the current domain name!' => 'Невозможно получить текущее доменное имя!',
+  'Your specified domain name does not seem to be valid!' => 'Указанное вами доменное имя не является действительным!',
+  'Your PHP install does not contain the {function} function needed to query the DNS records!' => 'Ваша установка PHP не содержит функции {function}, необходимой для запроса записей DNS!',
+  'Cannot find a valid CNAME record for {domainName}! Remember, the CNAME of {domainName} must point to {currentDomain}!' => 'Не удается найти действительную запись CNAME для {domainName}! Помните, что CNAME {domainName} должно указывать на {currentDomain}!',
+  'Scheme' => 'Протокол',
 );

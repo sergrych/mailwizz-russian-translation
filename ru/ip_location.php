@@ -7,22 +7,22 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
  return array (
-  'Ip location services' => 'Ip location services',
-  'Name' => 'Name',
-  'Description' => 'Description',
-  'Status' => 'Status',
-  'Sort order' => 'Sort order',
+  'Ip location services' => 'Сервисы геолокации',
+  'Name' => 'Название',
+  'Description' => 'Описание',
+  'Status' => 'Состояние',
+  'Sort order' => 'Порядок сортировки',
   'Service detail page' => 'Service detail page',
-  'Ip location services are used to collect location data(country, zone, city) when subscribers open the email campaigns or when they click on a trackable url, etc.' => 'Ip location services are used to collect location data(country, zone, city) when subscribers open the email campaigns or when they click on a trackable url, etc.',
-  'This data is then used in campaign reports to show you the exact location where the email campaign has been opened or the location from where the subscriber clicked a link from within the campaign.' => 'This data is then used in campaign reports to show you the exact location where the email campaign has been opened or the location from where the subscriber clicked a link from within the campaign.',
-  'Please note, data accuracy will vary between the services. You should test the service website before enable.' => 'Please note, data accuracy will vary between the services. You should test the service website before enable.',
+  'Ip location services are used to collect location data(country, zone, city) when subscribers open the email campaigns or when they click on a trackable url, etc.' => 'Сервисы геолокации используются для сбора данных о местонахождении (страна, зона, город), когда подписчики открывают кампании электронной почты или когда они нажимают на отслеживаемый URL.',
+  'This data is then used in campaign reports to show you the exact location where the email campaign has been opened or the location from where the subscriber clicked a link from within the campaign.' => 'Эти данные затем используются в отчетах кампании, чтобы показать вам точное местоположение, где была открыта кампания по электронной почте, или местоположение, откуда подписчик щелкнул ссылку внутри кампании.',
+  'Please note, data accuracy will vary between the services. You should test the service website before enable.' => 'Обратите внимание, что точность данных зависит от услуг. Вы должны протестировать сайт сервиса перед включением.',
   'Location' => 'Location',
   'Ip address' => 'Ip address',
   'Country code' => 'Country code',
@@ -31,4 +31,13 @@
   'City name' => 'City name',
   'Latitude' => 'Latitude',
   'Longitude' => 'Longitude',
+  'MaxMind.com database' => 'MaxMind.com база данных',
+  'The database file which should be located at "{path}" is missing!' => 'Файл базы данных, который должен быть расположен в "{path}", отсутствует!',
+  'Maxmind\'s site' => 'Maxmind\'s сайт',
+  'Please download latest version from {link}, decompress it and place the resulted .mmdb file to be accessible at the above path!' => 'Пожалуйста, загрузите последнюю версию с {link}, распакуйте ее и поместите полученный файл .mmdb, чтобы он был доступен по указанному выше пути!',
+  'Path on server' => 'Path on server',
+  'Download' => 'Download',
+  'Action to take' => 'Action to take',
+  'Download and place it in the right path' => 'Download and place it in the right path',
+  'This product includes GeoLite2 data created by MaxMind, available from {from}' => 'This product includes GeoLite2 data created by MaxMind, available from {from}',
 );

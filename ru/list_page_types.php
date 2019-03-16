@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -22,4 +22,6 @@
   'Description' => 'Description',
   'Default content' => 'Default content',
   'Full html' => 'Full html',
+  'Email subject' => 'Email subject',
+  'Please note, these pages are the base pages shown in customers area for each list.<br /> The customer has the ability to modify them to fit their needs for any particular list.' => 'Please note, these pages are the base pages shown in customers area for each list.<br /> The customer has the ability to modify them to fit their needs for any particular list.',
 );

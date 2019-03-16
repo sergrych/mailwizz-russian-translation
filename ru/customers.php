@@ -164,4 +164,5 @@
   'Quota usage (count)' => 'Quota usage (count)',
   '2FA enabled' => '2FA enabled',
   'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account' => 'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account',
+  '2FA code' => '2FA code',
 );

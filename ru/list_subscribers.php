@@ -117,4 +117,7 @@
   'Delete' => 'Delete',
   'confirmed' => 'confirmed',
   'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!',
+  'unsubscribed' => 'unsubscribed',
+  'The subscriber having the email address "{email}" has been successfully unsubscribed from the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully unsubscribed from the "{listName}" list!',
+  'The subscriber having the email address "{email}" has been successfully updated in the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully updated in the "{listName}" list!',
 );

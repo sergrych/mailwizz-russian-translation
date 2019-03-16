@@ -358,4 +358,10 @@
   'Reinstall core templates' => 'Reinstall core templates',
   'Disable signature check' => 'Disable signature check',
   'Whether to disable signature check when doing an API request' => 'Whether to disable signature check when doing an API request',
+  'Are you sure you want to delete this item?' => 'Are you sure you want to delete this item?',
+  'Export all' => 'Export all',
+  'Success only' => 'Success only',
+  'Error only' => 'Error only',
+  'Giveup only' => 'Giveup only',
+  'Blacklist only' => 'Blacklist only',
 );

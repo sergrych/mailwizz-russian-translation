@@ -1,5 +1,7 @@
 # Russian translation for MailWizz EMA (1.7.2)
 
+![screenshot](https://github.com/sergrych/mailwizz-russian-translation/blob/master/14.08.20.png)
+
 Install:
 
 Переходим в пункт меню "Extend" и выбраем расширение "Translate",

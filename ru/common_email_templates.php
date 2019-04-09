@@ -23,4 +23,9 @@
   'Content' => 'Content',
   'This will delete the core email templates and will reinstall them based on the common template. Are you sure you want to continue?' => 'This will delete the core email templates and will reinstall them based on the common template. Are you sure you want to continue?',
   'Reinstall core templates' => 'Reinstall core templates',
+  'Shows the current date' => 'Shows the current date',
+  'Shows the current year' => 'Shows the current year',
+  'Shows the current month' => 'Shows the current month',
+  'Shows the current day' => 'Shows the current day',
+  'Shows the site name' => 'Shows the site name',
 );

@@ -116,8 +116,9 @@
   'Disable' => 'Disable',
   'Delete' => 'Delete',
   'confirmed' => 'confirmed',
-  'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!',
-  'unsubscribed' => 'unsubscribed',
-  'The subscriber having the email address "{email}" has been successfully unsubscribed from the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully unsubscribed from the "{listName}" list!',
-  'The subscriber having the email address "{email}" has been successfully updated in the "{listName}" list!' => 'The subscriber having the email address "{email}" has been successfully updated in the "{listName}" list!',
+  'The subscriber having the email address "{email}" has been successfully removed from the "{listName}" list!' => 'Подписчик, имеющий адрес электронной почты "{email}" был успешго удален из списка - "{listName}" !',
+  'unsubscribed' => 'отписан',
+  'The subscriber having the email address "{email}" has been successfully unsubscribed from the "{listName}" list!' => 'Подписчик, имеющий адрес электронной почты "{email}" был успешно отписан а мртмке - "{listName}" !',
+  'The subscriber having the email address "{email}" has been successfully updated in the "{listName}" list!' => 'Подписчик, имеющий адрес электронной почты "{email}" бвл успешно оновлен в списке - "{listName}" !',
+  'blacklisted' => 'blacklisted',
 );

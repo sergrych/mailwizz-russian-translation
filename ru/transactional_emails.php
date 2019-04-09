@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -34,4 +34,6 @@
   'Max retries' => 'Max retries',
   'Send at' => 'Send at',
   'This email address is blacklisted!' => 'This email address is blacklisted!',
+  'Sent' => 'Sent',
+  'Unsent' => 'Unsent',
 );

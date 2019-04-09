@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link https://www.mailwizz.com/
- * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @copyright MailWizz EMA (https://www.mailwizz.com)
  * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -301,7 +301,7 @@
   'Stats' => 'Статистика',
   'Geo Opens' => 'Geo Открытия',
   'Categories' => 'Категории',
-  'Email box monitors' => 'Email box monitors',
+  'Email box monitors' => 'Мониторы почт. ящиков',
   'Block email requests' => 'Block email requests',
   'Maxmind Database' => 'Maxmind Database',
   'Pages' => 'Страницы',
@@ -311,7 +311,7 @@
   'Cron jobs history' => 'Изстория крона заданий',
   'Changelog' => 'Список изменений',
   'Filters' => 'Фильтры',
-  'Create new server' => 'Create new server',
+  'Create new server' => 'Создать новый сервер',
   'Email marketing' => 'Email marketing',
   'Email marketing.' => 'Email marketing.',
   'Made easy, finally.' => 'Made easy, finally.',
@@ -364,4 +364,15 @@
   'Error only' => 'Error only',
   'Giveup only' => 'Giveup only',
   'Blacklist only' => 'Blacklist only',
+  'Internal' => 'Internal',
+  'Soft' => 'Soft',
+  'Please use below options only if you know what you are doing. The way your application works and behaves depends on these actions.' => 'Please use below options only if you know what you are doing. The way your application works and behaves depends on these actions.',
+  'Change the status of stuck email box monitors from cron-running to active!' => 'Change the status of stuck email box monitors from cron-running to active!',
+  'Hard' => 'Hard',
+  'Giveup' => 'Giveup',
+  'Success' => 'Успешно',
+  'Backups' => 'Бекапы',
+  'Download' => 'Скачать',
+  'Enter search keyword' => 'Текст поиска',
+  'Search' => 'Поиск',
 );

@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link https://www.mailwizz.com/
- * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @copyright MailWizz EMA (https://www.mailwizz.com)
  * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -144,4 +144,6 @@
   'Export giveup only' => 'Export giveup only',
   'Export blacklist only' => 'Export blacklist only',
   'This report shows all the subscribers that were processed in order to receive your email.<br /> It also show if the emails have been sent successfully or not.' => 'This report shows all the subscribers that were processed in order to receive your email.<br /> It also show if the emails have been sent successfully or not.',
+  'Complaints report' => 'Complaints report',
+  'This report shows all the complaints for this campaign.' => 'This report shows all the complaints for this campaign.',
 );

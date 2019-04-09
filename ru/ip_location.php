@@ -40,4 +40,6 @@
   'Action to take' => 'Action to take',
   'Download and place it in the right path' => 'Download and place it in the right path',
   'This product includes GeoLite2 data created by MaxMind, available from {from}' => 'This product includes GeoLite2 data created by MaxMind, available from {from}',
+  'Timezone' => 'Timezone',
+  'None' => 'None',
 );

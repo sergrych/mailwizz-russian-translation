@@ -53,5 +53,5 @@
   'Another subscriber with this email address already exists in this list.' => 'Another subscriber with this email address already exists in this list.',
   'Your IP address is not allowed to access this server.' => 'Your IP address is not allowed to access this server.',
   'Invalid API request params. Please refer to the documentation.' => 'Invalid API request params. Please refer to the documentation.',
-  'Service Unavailable.' => 'Service Unavailable.',
+  'Service Unavailable.' => 'Сервис недоступен',
 );

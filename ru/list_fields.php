@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link https://www.mailwizz.com/
- * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @copyright MailWizz EMA (https://www.mailwizz.com)
  * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -97,4 +97,12 @@
   'New checkboxlist field' => 'New checkboxlist field',
   'Options' => 'Options',
   'New radiolist field' => 'New radiolist field',
+  'Add years range field' => 'Add years range field',
+  'New years range field' => 'New years range field',
+  'Year start' => 'Year start',
+  'Year end' => 'Year end',
+  'Year step' => 'Year step',
+  'Decides with which year to start' => 'Decides with which year to start',
+  'Decides with which year to end' => 'Decides with which year to end',
+  'Decides the number of years it jump each iteration' => 'Decides the number of years it jump each iteration',
 );

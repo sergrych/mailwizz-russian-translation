@@ -30,4 +30,6 @@
   'Requested API access has been successfully removed!' => 'Запрошенный доступ к API был успешно удален!',
   'Name' => 'Name',
   'Description' => 'Description',
+  'My site' => 'My site',
+  'This key is used on my site' => 'This key is used on my site',
 );

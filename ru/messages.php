@@ -7,9 +7,9 @@
  * 
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
- * @link http://www.mailwizz.com/
- * @copyright 2013-2017 MailWizz EMA (http://www.mailwizz.com)
- * @license http://www.mailwizz.com/license/
+ * @link https://www.mailwizz.com/
+ * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
  
@@ -29,4 +29,5 @@
   'Seen' => 'Прочитано',
   'User' => 'Пользователь',
   'here' => 'здесь',
+  'A new abuse report has been created for the campaign "{campaign_name}". Please visit the "<a href="{abuse_reports_url}">Abuse Reports</a>" area to handle it!' => 'A new abuse report has been created for the campaign "{campaign_name}". Please visit the "<a href="{abuse_reports_url}">Abuse Reports</a>" area to handle it!',
 );

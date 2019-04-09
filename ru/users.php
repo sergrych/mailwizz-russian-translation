@@ -58,4 +58,6 @@
   'You are impersonating the customer {customerName}.' => 'Вы выдаете себя за пользователя {customerName}.',
   'Please click {linkBack} to logout in order to finish impersonating.' => 'Пожалуйста нажмите {linkBack} для выхода из системы.',
   '2FA enabled' => '2FA enabled',
+  '2FA code' => '2FA code',
+  'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account' => 'Please make sure you scan the QR code in your authenticator application before enabling this feature, otherwise you will be locked out from your account',
 );

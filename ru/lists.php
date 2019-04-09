@@ -8,7 +8,7 @@
  * @package MailWizz EMA
  * @author Serban George Cristian <cristian.serban@mailwizz.com> 
  * @link https://www.mailwizz.com/
- * @copyright 2013-2018 MailWizz EMA (https://www.mailwizz.com)
+ * @copyright MailWizz EMA (https://www.mailwizz.com)
  * @license https://www.mailwizz.com/license/
  * @since 1.1
  */
@@ -223,4 +223,9 @@
   'No' => 'No',
   'The list "{listName}" has been successfully updated!' => 'The list "{listName}" has been successfully updated!',
   'Email lists' => 'Email lists',
+  'Only with these statuses' => 'Only with these statuses',
+  'Action against the status' => 'Action against the status',
+  'Leave as is' => 'Leave as is',
+  'Force confirmed' => 'Force confirmed',
+  'The list "{listName}" has been successfully deleted!' => 'The list "{listName}" has been successfully deleted!',
 );

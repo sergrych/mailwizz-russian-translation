@@ -8,5 +8,6 @@ Install:
 Потом идем в "Languages" и создаем новый язык с любым названием языка и обязательным кодом "ru"
 
 Upgrade:
+
 (replace) to /www/apps/common/messages/ru/
 
